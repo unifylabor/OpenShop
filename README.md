@@ -1,27 +1,38 @@
-# Open Shop - Unify Labor #
+# Open Shop - Unify Labor
 
-Details here
-
-
-## Built with: ##
-
-**CSS**
-
-**Javascript**  
-
-**Third Party Resources**
-
-**Images courtesy of...**
-
-* StockSnap.io: https://stocksnap.io
+> Public facing Unify Labor App.
 
 
-#### Support Resources ####
+## Contents
 
-* Submit Bugs:  https://github.com/unifylabor/OpenShop/issues
-* Project Page:  
+- [Scope](#scope)
+- [Methodology](#methodology)
+- [Setup](#setup)
+- [Assets](#assets)
+- [Documentation](#documentation)
+- [Contribute](#contribute)
+- [Support](#support)
 
 
-#### Version 0.1 ####
+## Scope
 
-* Initial Release
+## Methodology
+
+## Setup
+
+## Assets
+
+## Documentation
+
+## Contribute
+
+Contributions welcome. Please read the guidelines & be patient (we're all volunteers).
+
+## Support
+
+* Submit Bugs:  https://github.com/unifylabor/UnionResources/issues
+* Project Page:  https://github.com/unifylabor/UnionResources
+
+#### License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
