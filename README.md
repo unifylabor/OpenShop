@@ -30,8 +30,8 @@ Contributions welcome. Please read the guidelines & be patient (we're all volunt
 
 ## Support
 
-* Submit Bugs:  https://github.com/unifylabor/UnionResources/issues
-* Project Page:  https://github.com/unifylabor/UnionResources
+* Submit Bugs:  https://gitlab.com/unifylabor/open-shop/issues
+* Project Page:  https://gitlab.com/unifylabor/open-shop
 
 #### License
 
